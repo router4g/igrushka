@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":9,
   "parent":{
-    "name":"prikoldes",
-    "path":"prikoldes.yyp",
+    "name":"spr",
+    "path":"folders/spr.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
