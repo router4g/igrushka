@@ -7,11 +7,11 @@ view_hport[0] = 720;
 view_enabled = false;  // ВАЖНО: false, не true
 
 // Размеры камеры для отдаления
-var target_w = 853;
-var target_h = 480;
+var target_w = 853*1.5;
+var target_h = 480*1.5;
 
-// Размер окна
-window_set_size(1280, 720);
+// Размер окнаw
+window_set_fullscreen(true);
 surface_resize(application_surface, 1280, 720);
 
 // Создаем камеру
