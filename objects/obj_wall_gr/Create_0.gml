@@ -1,0 +1,1 @@
+rel = false;visor_forse = 1*1000;

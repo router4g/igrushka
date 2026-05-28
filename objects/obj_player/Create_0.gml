@@ -1,5 +1,5 @@
 speed_ = 5
-
+can_shot = true;
 //var cam = view_camera[0];
 
 //var new_w = 320;
