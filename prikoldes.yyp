@@ -22,6 +22,7 @@
   },
   "name":"prikoldes",
   "resources":[
+    {"id":{"name":"anim_scan","path":"objects/anim_scan/anim_scan.yy",},},
     {"id":{"name":"bullet_obj","path":"objects/bullet_obj/bullet_obj.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"obj_wall_end","path":"objects/obj_wall_end/obj_wall_end.yy",},},
@@ -31,6 +32,7 @@
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
+    {"id":{"name":"anim_spr_scan","path":"sprites/anim_spr_scan/anim_spr_scan.yy",},},
     {"id":{"name":"spr_pist","path":"sprites/spr_pist/spr_pist.yy",},},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
     {"id":{"name":"spr_wall_gr","path":"sprites/spr_wall_gr/spr_wall_gr.yy",},},
