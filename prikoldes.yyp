@@ -43,6 +43,7 @@
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
     {"id":{"name":"spr_plazma","path":"sprites/spr_plazma/spr_plazma.yy",},},
     {"id":{"name":"spr_wall_gr","path":"sprites/spr_wall_gr/spr_wall_gr.yy",},},
+    {"id":{"name":"spr_wall_invert_end","path":"sprites/spr_wall_invert_end/spr_wall_invert_end.yy",},},
     {"id":{"name":"spr_wall_invert_surp","path":"sprites/spr_wall_invert_surp/spr_wall_invert_surp.yy",},},
     {"id":{"name":"spr_wall_invert","path":"sprites/spr_wall_invert/spr_wall_invert.yy",},},
     {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},},
