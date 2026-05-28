@@ -1,0 +1,1 @@
+instance_destroy(self);audio_stop_sound(anigil);
