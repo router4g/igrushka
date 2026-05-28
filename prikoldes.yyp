@@ -24,6 +24,7 @@
   "resources":[
     {"id":{"name":"anim_scan","path":"objects/anim_scan/anim_scan.yy",},},
     {"id":{"name":"bullet_obj","path":"objects/bullet_obj/bullet_obj.yy",},},
+    {"id":{"name":"obj_camera","path":"objects/obj_camera/obj_camera.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"obj_wall_end","path":"objects/obj_wall_end/obj_wall_end.yy",},},
     {"id":{"name":"obj_wall_gr","path":"objects/obj_wall_gr/obj_wall_gr.yy",},},

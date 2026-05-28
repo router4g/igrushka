@@ -1,8 +1,3 @@
 speed_ = 5
-can_shot = true;r_p = false;
-//var cam = view_camera[0];
-
-//var new_w = 320;
-//var new_h = 180;
-
-//camera_set_view_size(cam, new_w, new_h);
+can_shoot = true;r_p = false;
+shoot_delay = 10;x_spawn = 0;y_spawn = 0;room_n = true;
